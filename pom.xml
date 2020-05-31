@@ -11,7 +11,6 @@
 	<groupId>br.com.ctis</groupId>
 	<artifactId>scu-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>scu-backend</name>
 	<description>Sistema de Cadastro de Usuários</description>
 
