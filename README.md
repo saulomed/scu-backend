@@ -8,7 +8,7 @@ Utilizar uma ide com plugins do spring boog e iniciar o ScuBackEdApplication.
 Consumir a url <code>http://localhost:8080/v1/usuarios</code>
 
 ### Público
-Ou acessar utilizar a api publicada no <a href="https://www.heroku.com/">Heroku</a>
+Utilizar a api publicada no <a href="https://www.heroku.com/">Heroku</a>
 Consumir a url <code>https://scu-backend.herokuapp.com/v1/usuarios</code>
 
 ## Documentação
