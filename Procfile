@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/scu-backend*.jar
+web: java -Dserver.port=$PORT -Dspring.profiles.active=prod $JAVA_OPTS -jar target/scu-backend*.jar
